@@ -7,6 +7,8 @@
  * Author:            Chalkbeat
  * Author URI:        http://chalkbeat.org/
  * Text Domain:       mori
+ * License: 		  GPLv2 or later
+ * License URI: 	  http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 // If this file is called directly, abort.
