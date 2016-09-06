@@ -1,0 +1,41 @@
+/* The Meta Boxes on Impact Posts*/
+.mori-impact-metabox {
+  margin: 10px 0;
+}
+
+/* The Table showing taxonomy/other data about assigned Impacts */
+.mori-impact-metabox .mori-impacts-table {
+  width:100%;
+  border-collapse: collapse;
+  border: 1px solid #e5e5e5;
+}
+
+.mori-impact-metabox .mori-impacts-table thead {
+  background: #f4f4f4;
+}
+
+.mori-impact-metabox .mori-impacts-table tbody {
+  border-top: 1px solid #e5e5e5;
+}
+
+.mori-impact-metabox .mori-impacts-table th,
+.mori-impact-metabox .mori-impacts-table td {
+  border-top: 1px solid #e5e5e5;
+  padding: 5px 15px;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.mori-impact-metabox .mori-impacts-table th:first-child {
+  border-right: 1px solid #e5e5e5;
+}
+
+.mori-impact-metabox .mori-impacts-table ul.postlist {
+  list-style: outside;
+  margin-left: 15px;
+}
+
+.mori-admin-table.form-table th p {
+  font-weight: normal;
+  margin-right:5px;
+}
