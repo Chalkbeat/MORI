@@ -1,4 +1,4 @@
-# Metrics on Reporting Impacts (MORI)
+# Measures of Our Reporting’s Influence (MORI)
 
 ## Description
 
@@ -19,5 +19,3 @@ You use "Impacts" for tracking individual events. Each impact is assigned to a s
 "Impact Types" are for tracking different types of impacts and operate just like tags. They can be anything you want them to be, such as "award", "legislative action" or even "lawsuit".
 
 Also, MORI allows you to export impacts as a .csv spreadsheet so you can analyze your work. These exports can include data about an impact as well as information about the post or page an impact is assigned to.
-
-## Configuring MORI
