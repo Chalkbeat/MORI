@@ -7,8 +7,6 @@
  * Author:            Chalkbeat
  * Author URI:        http://chalkbeat.org/
  * Text Domain:       mori
- * License: 		  MIT
- * License URI: 	  https://opensource.org/licenses/MIT
  */
 
 // If this file is called directly, abort.
@@ -17,6 +15,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 define( 'MORI_BASE_FOLDER', plugin_dir_path( __FILE__ ) );
+define( 'MORI_BASE_URL', plugins_url( '', __FILE__ ) );
 
 // Pieces requiring WordPress to be initialized
 add_action('init', function() {
