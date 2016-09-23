@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name:       MORI - Metrics on Reporting Impacts
+ * Plugin Name:       MORI - Measures of Our Reporting's Influence
  * Plugin URI:        https://github.com/Chalkbeat/MORI
- * Description:       MORI helps you track your reporting's impact
+ * Description:       MORI helps track the impact of journalism
  * Version:           0.1
  * Author:            Chalkbeat
  * Author URI:        http://chalkbeat.org/

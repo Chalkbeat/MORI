@@ -1,13 +1,19 @@
-# Measures of Our Reporting’s Influence (MORI)
+# The MORI Impact Tracker
+MORI stands for Measures of Our Reporting’s Influence. The MORI Impact Tracker is a WordPress plugin to help track and report the impact of your organization's journalism.
 
-## Description
+## Overview
 
-MORI provides a framework for recording the impact your reporting has.
+The MORI Impact Tracker plugin allows you to:
+- Record an individual impact and attach it to a particular WordPress post, or to a broader category or tag. Impacts can stand alone, too.
+- Review impacts over time. Search and sort them as you would with WordPress posts.
+- Export lists of impacts to a spreadsheet, for further data crunching and sharing with internal and external users.
+
+It also includes a dashboard widget to display your latest impacts where anyone working in WordPress can see them regularly.
 
 ## Installation
 
 1. Download the zip file from this Github repo and upload the 'chalkbeat-MORI' directory to your WordPress site's plugin directory.
-2. Activate the plugin 'MORI - Metrics on Reporting Impacts' through the 'Plugins' screen in WordPress
+2. Activate the plugin 'MORI - Measures of Our Reporting’s Influence' through the 'Plugins' screen in WordPress
 3. You can now configure your MORI setup
 
 ## What MORI does
