@@ -7,6 +7,7 @@ Each Impact post can be attached to a post, page, category, or tag, so you can a
 
 ## Details
 1. After your story is published, good things happen, and it’s time to record an Impact. Start by finding the MORI menu in the left sidebar of the administration area and look for Add New Impact.
+
 ![The MORI menu in WordPress](https://raw.githubusercontent.com/Chalkbeat/MORI/master/docs/MORI_menu.png)
 
 2. Enter a title and description for the Impact. You can use links, add media, formatting, etc. in the description field. Was your story published in a local newspaper? Attach a picture of the front page, grab a screenshot of the web version, link to it, etc. Include the details you want to record to help tell the story of this Impact to your organization's staff, funders, and others.
