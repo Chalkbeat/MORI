@@ -29,3 +29,15 @@ Select an Impact Type from the taxonomy menu, usually on the right side of the s
 
 #### Save an Impact
 "Publish" to save this Impact. The Impact post type is set up to be invisible to the public, so it shouldn't appear anywhere on your public-facing WordPress site unless you expressly make changes to this code to make that possible.
+
+Your Impact should now have some more metadata assigned to it, including the tags and categories from the post you assigned it to, where applicable. This should make it easier to find and report on impact related to a particular topic.
+
+#### The MORI dashboard widget
+After you install the MORI Impact Tracker WordPress plugin and log your first few impacts, you should see a dashboard widget when you log into WordPress. It will display recent impacts and provide links to add a new Impact or view all impacts.
+
+![MORI dashboard widget](https://raw.githubusercontent.com/Chalkbeat/MORI/master/docs/MORI_dashboard_widget.png)
+
+#### View all Impacts
+Select "All Impacts" from the MORI menu in WordPress or from the dashboard widget. Viewing all Impacts will take you to a familiar list of posts, where you can sort by various criteria, edit if needed, or otherwise update taxonomies and other information.
+
+![View all impacts](https://raw.githubusercontent.com/Chalkbeat/MORI/master/docs/MORI_all_impacts.png)
