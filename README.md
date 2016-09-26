@@ -40,11 +40,11 @@ Configure the Impact Types for your site in the MORI Settings.
 MORI allows you to export impacts as a .csv spreadsheet so you can analyze your work. These exports can include data about an impact as well as information about the post or page an impact is assigned to. This comes in handy for sharing impact data with internal users, such as your fundraising or management team, and perhaps external users such as funders, where appropriate.
 
 ## [Documentation](https://github.com/Chalkbeat/MORI/blob/master/docs/readme.md)
-#### [About MORI (2016)](https://github.com/Chalkbeat/MORI/blob/master/docs/about-mori-2016.md)
-#### [The Impact post type](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-post-type.md)
-#### [The Impact Type taxonomy](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-type-taxonomy.md)
-#### [Exporting Impacts](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-export.md)
-#### [More](https://github.com/Chalkbeat/MORI/blob/master/docs/readme.md)
+1. [About MORI (2016)](https://github.com/Chalkbeat/MORI/blob/master/docs/about-mori-2016.md)
+2. [The Impact post type](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-post-type.md)
+3. [The Impact Type taxonomy](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-type-taxonomy.md)
+4. [Exporting Impacts](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-export.md)
+-  [More](https://github.com/Chalkbeat/MORI/blob/master/docs/readme.md)
 
 ## Development and Contributing
 We hope this release is the beginning of a public conversation around how news organizations can track and report impact, and look forward to working with developers from other organizations as we continue to develop the MORI Platform. The community of practice around impact tracking is already vibrant; we hope this release helps it grow and share knowledge.
