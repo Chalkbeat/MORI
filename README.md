@@ -20,7 +20,7 @@ It also includes a dashboard widget to display your latest impacts where anyone 
 
 
 ## Features
-MORI creates a new WordPress post type -- "Impacts" -- and a new taxonomy -- "Impact Type". It also creates some tools for exporting those impacts for analysis.
+MORI creates a new WordPress post type — "Impacts" — and a new taxonomy — "Impact Type". It also creates some tools for exporting those impacts for analysis.
 
 #### The Impact post type
 Use the Impact post type to track individual impacts of your journalism.
