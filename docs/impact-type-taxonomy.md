@@ -9,7 +9,7 @@ Configure the Impact Types for your site in the MORI Settings.
 ![The MORI menu in WordPress](https://raw.githubusercontent.com/Chalkbeat/MORI/master/docs/MORI_menu.png)
 
 #### Add an Impact Type
-If you're familiar with managing taxonomies in WordPress, such as categories or tags, this screen should look familiar. Add Impact Types, and then you'll be able to assign them to Impacts.
+If you're familiar with [managing taxonomies in WordPress](https://codex.wordpress.org/Manage_Categories_SubPanel), such as categories or tags, this screen should look familiar. Add Impact Types, and then you'll be able to assign them to Impacts.
 
 ![Add an Impact Type](https://raw.githubusercontent.com/Chalkbeat/MORI/master/docs/MORI_add_impact_type.png)
 
