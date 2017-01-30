@@ -35,11 +35,6 @@ add_action('init', function() {
   include('columns/post-columns.php');
   include('filters/impact-filters.php');
 
-  if ( is_plugin_active('mori/mori.php') ) {
-    // Migrate old data from older MORI
-    include('old-data-migration.php');
-  }
-
   // CSV exports
   include('exports.php');
 
