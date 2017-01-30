@@ -32,7 +32,7 @@ Each Impact post can be attached to a post, page, category, or tag, so you can a
 #### The Impact Type taxonomy
 Impact Types are for tracking different types of impacts and operate just like tags. They can be anything you want them to be, such as "award", "legislative action" or even "lawsuit".
 
-See further notes on impact type taxonomies [in the docs](http://foo.bar).
+See further notes on impact type taxonomies [in the docs](https://github.com/Chalkbeat/MORI/blob/master/docs/impact-type-taxonomy.md).
 
 Configure the Impact Types for your site in the MORI Settings.
 
